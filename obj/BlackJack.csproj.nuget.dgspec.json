@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lachl\\Documents\\Projects\\Vscode\\BlackJack\\BlackJack.csproj": {}
+    "C:\\Users\\lachl\\Documents\\Projects\\Vscode\\black_jack\\BlackJack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lachl\\Documents\\Projects\\Vscode\\BlackJack\\BlackJack.csproj": {
+    "C:\\Users\\lachl\\Documents\\Projects\\Vscode\\black_jack\\BlackJack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lachl\\Documents\\Projects\\Vscode\\BlackJack\\BlackJack.csproj",
+        "projectUniqueName": "C:\\Users\\lachl\\Documents\\Projects\\Vscode\\black_jack\\BlackJack.csproj",
         "projectName": "BlackJack",
-        "projectPath": "C:\\Users\\lachl\\Documents\\Projects\\Vscode\\BlackJack\\BlackJack.csproj",
+        "projectPath": "C:\\Users\\lachl\\Documents\\Projects\\Vscode\\black_jack\\BlackJack.csproj",
         "packagesPath": "C:\\Users\\lachl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lachl\\Documents\\Projects\\Vscode\\BlackJack\\obj\\",
+        "outputPath": "C:\\Users\\lachl\\Documents\\Projects\\Vscode\\black_jack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
